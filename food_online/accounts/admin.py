@@ -12,4 +12,4 @@ class CustomUserAdmin(UserAdmin):
     fieldsets = ()
 
 admin.site.register(User)
-admin.ite.register(UserProfile)
+admin.site.register(UserProfile)
